@@ -1,6 +1,6 @@
 # Pury - community application (in development)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/mercuryVM/pury/blob/main/pury%20logo.png)
 
 - not online yet
 
