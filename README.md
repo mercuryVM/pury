@@ -1,6 +1,6 @@
 # Pury - community application (in development)
 
-![Pury](https://github.com/tograh/testrepository/3DTest.png 1.2k)
+(https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 - not online yet
 
