@@ -1,4 +1,4 @@
-# pury - community application (in development)
+# Pury - community application (in development)
 
 - not online yet
 
